@@ -9,7 +9,8 @@ business value of a property. To do this activity the company employs an “Audi
 various geographic features of a property like pollution level (NOX), crime rate, education facilities 
 (pupil to teacher ratio), connectivity (distance from highway), etc. This helps in determining the price 
 of a property.
-The agency has provided a dataset of 506 houses in Boston. Following are the details of the dataset:
+The agency has provided a dataset of 506 houses in Boston. 
+Following are the details of the dataset:
 Data Dictionary:
 CRIME RATE - per capita crime rate by town
 INDUSTRY - proportion of non-retail business acres per town (in percentage terms)
