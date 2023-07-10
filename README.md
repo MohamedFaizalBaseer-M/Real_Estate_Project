@@ -14,16 +14,27 @@ The agency has provided a dataset of 506 houses in Boston.
 Following are the details of the dataset:
 
 Data Dictionary:
+
 CRIME RATE - per capita crime rate by town
+
 INDUSTRY - proportion of non-retail business acres per town (in percentage terms)
+
 NOX - nitric oxides concentration (parts per 10 million)
+
 AVG_ROOM - average number of rooms per house
+
 AGE - proportion of houses built prior to 1940 (in percentage terms)
+
 DISTANCE - distance from highway (in miles)
+
 TAX - full-value property-tax rate per $10,000
+
 PTRATIO - pupil-teacher ratio by town
+
 LSTAT - % lower status of the population
+
 AVG_PRICE - Average value of houses in $1000's
+
 Objective (Task):
 Your job, as an auditor, is to analyze the magnitude of each variable to which it can affect the price of 
 a house in a particular locality.
@@ -66,7 +77,9 @@ HINT: Significant variables are those whose p-values are less than 0.05. If the 
 0.05 then it is insignificant
 
 Learning Outcome (Result):
+
 ● Implementation of Exploratory Data Analysis helps you to understand the nature of different 
 data-attributes
+
 ● You will understand how to use various statistical/analytical tools in MS Excel like Summary 
 statistics, Histogram, correlation table, Regression analysis (using Data analysis tool pack)
